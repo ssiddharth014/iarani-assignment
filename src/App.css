@@ -1,0 +1,35 @@
+.display{
+  width:100vw;
+  height:100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
+}
+.btnColor{
+          background-color: #ff5722 !important;
+          color: white;
+        }
+.input{
+  width:95%;
+}
+.modal{
+  margin:20% !important;
+}
+.zeroo{
+          height:auto;
+          width:auto;
+          display: none;
+        }
+        .zero{
+          
+          display:none;
+        }
+
+                .log{
+          background-image: url('./asset/images/1.jpg');
+          background-size: cover;
+         
+          background-repeat: no-repeat;
+          
+          
+        }
